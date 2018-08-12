@@ -1,0 +1,25 @@
+{
+  "name": "react-ssr-cli",
+  "workspaces": [
+    "packages/*"
+  ],
+  "keywords": [
+    "react",
+    "react-ssr"
+  ],
+  "version": "1.0.0",
+  "description": "a cli for react server side render project",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walljser/react-ssr-cli.git"
+  },
+  "author": "https://github.com/walljser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walljser/react-ssr-cli/issues"
+  },
+  "homepage": "https://github.com/walljser/react-ssr-cli#readme"
+}
